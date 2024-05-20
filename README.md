@@ -1,9 +1,10 @@
-<h1 align="center">Olá 👋, Meu nome é Bruno Freire</h1>
-* 👨‍🎓 Cursando: Gestão da Tec. da Informação (GTI) - CESAR School
+### Olá 👋, Meu nome é Bruno Freire
 
-- 🌱 Estudando: **Javascript/React, Spring**
+* 👨‍🎓 Cursando: **Gestão da Tec. da Informação (GTI) - CESAR School**
 
-- 📫 Contato: **brunofmaciel23@gmail.com**
+* 🌱 Estudando: **Javascript/React, Spring**
+
+* 📫 Contato: **brunofmaciel23@gmail.com**
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
