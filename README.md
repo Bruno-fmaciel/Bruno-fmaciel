@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é Bruno Freire</h1>
-- 👨‍🎓 Cursando: Gestão da Tec. da Informação (GTI) - CESAR School
+* 👨‍🎓 Cursando: Gestão da Tec. da Informação (GTI) - CESAR School
 
 - 🌱 Estudando: **Javascript/React, Spring**
 
