@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é Bruno Freire</h1>
-- 👨‍🎓 Cursando: **Gestão da Tec. da Informação (GTI) - CESAR School**
+- 👨‍🎓 Cursando: Gestão da Tec. da Informação (GTI) - CESAR School
 
 - 🌱 Estudando: **Javascript/React, Spring**
 
@@ -15,7 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-fmaciel&show_icons=true&locale=en&layout=compact" alt="bruno-fmaciel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno-fmaciel&show_icons=true&locale=en" alt="bruno-fmaciel" /></p>
+
 
 
 
